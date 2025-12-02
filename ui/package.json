@@ -43,7 +43,7 @@
     "react-redux": "7.2.4",
     "react-router-dom": "5.2.0",
     "react-router-prop-types": "1.0.5",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "react-storage-hooks": "4.0.1",
     "react-useportal": "1.0.14",
     "reconnecting-websocket": "4.4.0",
